@@ -5,8 +5,8 @@
     "background_color": "#2196f3",
     "display": "browser",
     "orientation": "portrait",
-    "scope": "/",
-    "start_url": "/",
+    "scope": "/pwa-feteps/",
+    "start_url": "/pwa-feteps/",
     "prefer_related_applications": false,
     "icons": [
         {
